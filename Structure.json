@@ -1,0 +1,28 @@
+{
+    ".gitignore": "gitignore",
+    "Kernel": [
+        {
+            "Common.wl": "common symbols shared across contexts",
+            "TemplateLight": "directory of subcontexts under Yurie`TemplateLight`",
+            "TemplateLight.wl": "main context"
+        }
+    ],
+    "LICENSE": "license",
+    "Notebook": "directory of notebooks",
+    "PacletInfo.wl": "paclet information",
+    "README.md": "readme",
+    "Test": "directory of unit tests",
+    "TestSource": "directory of unit test sources",
+    "Utility": [
+        {
+            "Info.wl": "paclet information"
+        }
+    ],
+    "Workbench": [
+        {
+            "TemplateLight.nb": "notebook for developing TemplateLight.wl",
+            "Test.nb": "notebook for converting and executing unit tests",
+            "Usage.nb": "notobook for exporting usages"
+        }
+    ]
+}
