@@ -2,6 +2,8 @@
 
 Light paclet template.
 
+## Documentation
+
 ## Install
 
 Install from this repository:
@@ -41,5 +43,3 @@ PacletInstall["Yurie/TemplateLight"]
 ``` wl
 PacletUninstall["Yurie/TemplateLight"]
 ```
-
-## Documentation
